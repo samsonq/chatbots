@@ -30,7 +30,7 @@ except Exception as e:
     install_reqs = []
 
 setup(
-    name="chatbot",
+    name="chatbots",
     version="0.1.0",
     author="Samson Qian",
     author_email="samsonqian@gmail.com",
